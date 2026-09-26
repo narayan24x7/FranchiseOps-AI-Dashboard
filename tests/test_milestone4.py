@@ -75,3 +75,20 @@ def test_orchestration_failure_preserves_snapshot(tmp_path,monkeypatch):
   assert [r[0] for r in stages]==['failed','skipped','skipped','skipped','skipped']
  assert snapshot('summary')==before
  assert not engine.LOCK.locked()
+
+def test_action_center_persists_intelligence_followup(tmp_path,monkeypatch):
+ import shutil
+ from database.store import ROOT
+ shutil.copy(ROOT/'runtime/franchiseops.db',tmp_path/'franchiseops.db')
+ monkeypatch.setenv('FRANCHISEOPS_DATA_DIR',str(tmp_path))
+ client=app.test_client()
+ rows=client.get('/api/actions').json
+ assert len(rows)==len(snapshot('audit'))+len(snapshot('intelligence'))
+ item=next(r for r in rows if r['Action_ID'].startswith('intelligence:'))
+ url='/api/findings/'+item['Action_ID']
+ assert client.post(url,json={'status':'In progress','owner':'Outlet lead','note':'Review stock orders'}).status_code==200
+ saved=next(r for r in client.get('/api/actions').json if r['Action_ID']==item['Action_ID'])
+ assert (saved['Status'],saved['Owner'],saved['Note'])==('In progress','Outlet lead','Review stock orders')
+ assert client.post(url,json={'status':'Open','owner':123}).status_code==400
+ assert client.post(url,json=['invalid']).status_code==400
+ assert client.post('/api/findings/unknown',json={'status':'Open'}).status_code==404

@@ -33,7 +33,7 @@ def runs():
 @app.get('/api/jobs/<id>')
 def job(id):
  with connect() as c:r=c.execute('SELECT * FROM runs WHERE id=?',(id,)).fetchone()
- return (jsonify(dict(r,agents=['Milestone 4'])),200) if r else (jsonify(error='Unknown run'),404)
+ return (jsonify(dict(r,agents=['Connected workflow'])),200) if r else (jsonify(error='Unknown run'),404)
 @app.post('/api/run/<target>')
 def run(target):
  try:return jsonify(job=start(target)),202
@@ -42,7 +42,8 @@ def run(target):
 @app.post('/api/findings/<id>')
 def action(id):
  body=request.get_json(silent=True) or {}
- if id not in {r['Finding_ID'] for r in snapshot('audit',[])}:return jsonify(error='Unknown finding'),404
+ if not isinstance(body,dict):return jsonify(error='Expected an object'),400
+ if id not in ({r['Finding_ID'] for r in snapshot('audit',[])} | {'intelligence:'+r['Outlet_ID'] for r in snapshot('intelligence',[])}):return jsonify(error='Unknown finding'),404
  if body.get('status') not in ['Open','In progress','Resolved']:return jsonify(error='Invalid status'),400
  owner=body.get('owner','');note=body.get('note','')
  if not isinstance(owner,str) or not isinstance(note,str) or len(owner)>120 or len(note)>2000:return jsonify(error='Invalid owner or note'),400
@@ -51,6 +52,19 @@ def action(id):
 @app.get('/api/schema')
 def schema():
  with connect() as c:return jsonify([dict(r) for r in c.execute("SELECT name,sql FROM sqlite_master WHERE type='table' ORDER BY name")])
+
+@app.get('/api/actions')
+def actions():
+ rows=[]
+ for r in snapshot('audit',[]):
+  rows.append(dict(r,Action_ID=r['Finding_ID'],Source='Audit',Priority=r['Severity']))
+ for r in snapshot('intelligence',[]):
+  rows.append(dict(r,Action_ID='intelligence:'+r['Outlet_ID'],Source=r['Primary_Focus'],Status='Open'))
+ with connect() as c:states={r['finding_id']:dict(r) for r in c.execute('SELECT * FROM action_state')}
+ for r in rows:
+  state=states.get(r['Action_ID'],{});r.update(Status=state.get('status','Open'),Owner=state.get('owner',''),Note=state.get('note',''))
+ return jsonify(rows)
+
 if __name__=='__main__':
  import os
  app.run(host='0.0.0.0',port=int(os.environ.get('PORT',8000)))

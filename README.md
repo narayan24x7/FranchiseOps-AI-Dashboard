@@ -98,3 +98,13 @@ node --check dashboard/static/m4.js
 ```
 
 The database contains normalized outlets and monthly sales plus versioned-by-publication JSON snapshots, pipeline runs/steps and current finding follow-up state. It does not provide a historical change log for every follow-up edit. Restarted processes mark interrupted runs failed; start a new run to retry. Legacy CSV and JSON exports refresh before M4 validation; the M4 database transaction is the executive snapshot boundary.
+
+## Executive dashboard update
+
+The interface follows the supplied navy/white dashboard reference and keeps the existing project paths. Navigation uses business names: Executive Overview, Outlet Performance, Inventory Intelligence, Workforce Analytics, Marketing Effectiveness, Audit & Compliance, Franchise Intelligence, Action Center, and Data & Reports. Agent Workflow remains available for run history and execution. There are no milestone-number headings in the interface.
+
+The dashboard uses the existing data outputs and database snapshots. Reference-image example numbers are not copied into the application. Action Center joins audit findings and intelligence recommendations, and saves owner, note and Open/In progress/Resolved status in the existing action_state table. Data & Reports exports all twelve existing agent datasets plus audit_agent_output.csv and intelligence_output.csv, and displays validation results and schema. Region/outlet filters apply to exports; period filters apply to monthly datasets. Forecasting, benchmarking, performance scores and staff/marketing analysis remain accessible from the relevant business pages.
+
+Validation for this update: 36 Python tests passed; JavaScript syntax checks passed; 17 page templates and empty-scope rendering passed using actual datasets; seven dashboard API reads returned HTTP 200. Browser screenshot comparison and interaction verification remain pending because automatic browser approval review was blocked by a session usage limit. This package has not been deployed to or verified on Render. The existing Render build/start configuration is retained. A persistent disk configured through FRANCHISEOPS_DATA_DIR is required if follow-up state must survive service rebuilds or redeployments.
+
+Lucide icons are embedded in the existing stylesheet, with their ISC license included, so navigation has no external icon CDN dependency.
