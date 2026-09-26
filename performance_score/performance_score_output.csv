@@ -1,0 +1,751 @@
+Outlet_ID,Outlet_Name,Benchmark_Score,Benchmark_Rank,Benchmark_Category,Performance_Score,Performance_Rank,Performance_Category
+OUT0595,Franchise Outlet 0595,82.4,3,Top Performer,94.61,1,Excellent
+OUT0606,Franchise Outlet 0606,63.92,12,Top Performer,93.42,2,Excellent
+OUT0604,Franchise Outlet 0604,74.05,4,Top Performer,92.32,3,Excellent
+OUT0723,Franchise Outlet 0723,85.35,2,Top Performer,91.93,4,Excellent
+OUT0641,Franchise Outlet 0641,61.12,20,Top Performer,91.86,5,Excellent
+OUT0021,Franchise Outlet 0021,62.82,15,Top Performer,90.54,6,Excellent
+OUT0615,Franchise Outlet 0615,87.24,1,Top Performer,90.21,7,Excellent
+OUT0250,Franchise Outlet 0250,62.91,14,Top Performer,90.15,8,Excellent
+OUT0422,Franchise Outlet 0422,64.64,11,Top Performer,89.37,9,Excellent
+OUT0413,Franchise Outlet 0413,56.74,33,Top Performer,88.25,10,Excellent
+OUT0476,Franchise Outlet 0476,64.65,10,Top Performer,88.02,11,Excellent
+OUT0445,Franchise Outlet 0445,70.04,7,Top Performer,87.77,12,Excellent
+OUT0118,Franchise Outlet 0118,58.3,26,Top Performer,87.63,13,Excellent
+OUT0515,Franchise Outlet 0515,57.65,28,Top Performer,87.62,14,Excellent
+OUT0354,Franchise Outlet 0354,65.94,8,Top Performer,87.34,15,Excellent
+OUT0116,Franchise Outlet 0116,61.75,18,Top Performer,86.99,16,Excellent
+OUT0061,Franchise Outlet 0061,56.62,34,Top Performer,86.58,17,Excellent
+OUT0324,Franchise Outlet 0324,65.84,9,Top Performer,86.53,18,Excellent
+OUT0033,Franchise Outlet 0033,59.16,22,Top Performer,86.51,19,Excellent
+OUT0276,Franchise Outlet 0276,54.81,48,Top Performer,86.11,20,Excellent
+OUT0640,Franchise Outlet 0640,62.3,17,Top Performer,85.77,21,Excellent
+OUT0484,Franchise Outlet 0484,56.17,36,Top Performer,85.63,22,Excellent
+OUT0713,Franchise Outlet 0713,55.97,39,Top Performer,85.55,23,Excellent
+OUT0294,Franchise Outlet 0294,55.86,41,Top Performer,84.85,24,Excellent
+OUT0245,Franchise Outlet 0245,57.62,29,Top Performer,84.8,25,Excellent
+OUT0716,Franchise Outlet 0716,57.29,31,Top Performer,83.93,26,Excellent
+OUT0735,Franchise Outlet 0735,73.08,5,Top Performer,83.81,27,Excellent
+OUT0513,Franchise Outlet 0513,53.43,58,Top Performer,83.79,28,Excellent
+OUT0521,Franchise Outlet 0521,58.5,25,Top Performer,83.63,29,Excellent
+OUT0332,Franchise Outlet 0332,53.44,57,Top Performer,83.48,30,Excellent
+OUT0009,Franchise Outlet 0009,57.46,30,Top Performer,83.45,31,Excellent
+OUT0194,Franchise Outlet 0194,50.07,74,Top Performer,83.44,32,Excellent
+OUT0290,Franchise Outlet 0290,59.35,21,Top Performer,83.38,33,Excellent
+OUT0395,Franchise Outlet 0395,53.68,53,Top Performer,83.36,34,Excellent
+OUT0489,Franchise Outlet 0489,51.95,63,Top Performer,83.34,35,Excellent
+OUT0435,Franchise Outlet 0435,53.49,55,Top Performer,83.14,36,Excellent
+OUT0469,Franchise Outlet 0469,55.21,43,Top Performer,83.0,37,Excellent
+OUT0129,Franchise Outlet 0129,61.42,19,Top Performer,82.59,38,Excellent
+OUT0158,Franchise Outlet 0158,54.83,47,Top Performer,82.58,39,Excellent
+OUT0419,Franchise Outlet 0419,52.27,61,Top Performer,82.14,40,Excellent
+OUT0468,Franchise Outlet 0468,51.55,65,Top Performer,81.8,41,Excellent
+OUT0359,Franchise Outlet 0359,58.55,24,Top Performer,81.74,42,Excellent
+OUT0441,Franchise Outlet 0441,50.27,73,Top Performer,81.67,43,Excellent
+OUT0642,Franchise Outlet 0642,55.17,44,Top Performer,81.56,44,Excellent
+OUT0028,Franchise Outlet 0028,56.09,37,Top Performer,81.32,45,Excellent
+OUT0560,Franchise Outlet 0560,62.53,16,Top Performer,81.28,46,Excellent
+OUT0522,Franchise Outlet 0522,53.88,51,Top Performer,81.17,47,Excellent
+OUT0039,Franchise Outlet 0039,47.96,84,Top Performer,81.13,48,Excellent
+OUT0732,Franchise Outlet 0732,51.06,67,Top Performer,81.05,49,Excellent
+OUT0137,Franchise Outlet 0137,55.92,40,Top Performer,80.94,50,Excellent
+OUT0667,Franchise Outlet 0667,58.97,23,Top Performer,80.9,51,Excellent
+OUT0594,Franchise Outlet 0594,49.4,76,Top Performer,80.45,52,Excellent
+OUT0361,Franchise Outlet 0361,48.51,78,Top Performer,80.35,53,Excellent
+OUT0247,Franchise Outlet 0247,50.49,70,Top Performer,80.03,54,Excellent
+OUT0275,Franchise Outlet 0275,57.94,27,Top Performer,79.91,55,Good
+OUT0579,Franchise Outlet 0579,72.08,6,Top Performer,79.88,56,Good
+OUT0562,Franchise Outlet 0562,54.33,50,Top Performer,79.81,57,Good
+OUT0748,Franchise Outlet 0748,53.23,59,Top Performer,79.65,58,Good
+OUT0627,Franchise Outlet 0627,54.7,49,Top Performer,79.46,59,Good
+OUT0349,Franchise Outlet 0349,63.5,13,Top Performer,79.45,60,Good
+OUT0049,Franchise Outlet 0049,48.11,82,Top Performer,79.36,61,Good
+OUT0572,Franchise Outlet 0572,48.34,79,Top Performer,79.24,62,Good
+OUT0044,Franchise Outlet 0044,53.72,52,Top Performer,79.23,63,Good
+OUT0067,Franchise Outlet 0067,55.55,42,Top Performer,79.07,64,Good
+OUT0561,Franchise Outlet 0561,56.97,32,Top Performer,78.93,65,Good
+OUT0647,Franchise Outlet 0647,46.27,97,Top Performer,78.54,66,Good
+OUT0091,Franchise Outlet 0091,51.28,66,Top Performer,78.1,67,Good
+OUT0685,Franchise Outlet 0685,47.43,87,Top Performer,77.96,68,Good
+OUT0506,Franchise Outlet 0506,46.09,101,Top Performer,77.88,69,Good
+OUT0525,Franchise Outlet 0525,44.13,126,Top Performer,77.83,70,Good
+OUT0743,Franchise Outlet 0743,54.85,46,Top Performer,77.83,70,Good
+OUT0571,Franchise Outlet 0571,49.63,75,Top Performer,77.81,72,Good
+OUT0516,Franchise Outlet 0516,54.88,45,Top Performer,77.66,73,Good
+OUT0737,Franchise Outlet 0737,45.2,113,Top Performer,77.44,74,Good
+OUT0672,Franchise Outlet 0672,46.83,90,Top Performer,77.42,75,Good
+OUT0086,Franchise Outlet 0086,56.39,35,Top Performer,77.26,76,Good
+OUT0703,Franchise Outlet 0703,46.16,99,Top Performer,77.18,77,Good
+OUT0249,Franchise Outlet 0249,43.9,129,Top Performer,76.8,78,Good
+OUT0192,Franchise Outlet 0192,50.3,72,Top Performer,76.76,79,Good
+OUT0646,Franchise Outlet 0646,51.96,62,Top Performer,76.63,80,Good
+OUT0457,Franchise Outlet 0457,53.46,56,Top Performer,76.53,81,Good
+OUT0140,Franchise Outlet 0140,47.59,86,Top Performer,76.38,82,Good
+OUT0381,Franchise Outlet 0381,46.1,100,Top Performer,76.36,83,Good
+OUT0734,Franchise Outlet 0734,45.48,109,Top Performer,76.29,84,Good
+OUT0473,Franchise Outlet 0473,42.83,141,Top Performer,76.12,85,Good
+OUT0660,Franchise Outlet 0660,48.18,81,Top Performer,76.07,86,Good
+OUT0300,Franchise Outlet 0300,56.03,38,Top Performer,76.06,87,Good
+OUT0471,Franchise Outlet 0471,52.66,60,Top Performer,75.9,88,Good
+OUT0010,Franchise Outlet 0010,45.77,104,Top Performer,75.86,89,Good
+OUT0693,Franchise Outlet 0693,50.51,69,Top Performer,75.57,90,Good
+OUT0171,Franchise Outlet 0171,44.18,125,Top Performer,75.28,91,Good
+OUT0702,Franchise Outlet 0702,48.27,80,Top Performer,75.0,92,Good
+OUT0617,Franchise Outlet 0617,42.64,144,Top Performer,74.95,93,Good
+OUT0401,Franchise Outlet 0401,45.69,105,Top Performer,74.94,94,Good
+OUT0581,Franchise Outlet 0581,47.87,85,Top Performer,74.94,94,Good
+OUT0535,Franchise Outlet 0535,53.65,54,Top Performer,74.93,96,Good
+OUT0311,Franchise Outlet 0311,44.21,122,Top Performer,74.91,97,Good
+OUT0671,Franchise Outlet 0671,45.33,111,Top Performer,74.89,98,Good
+OUT0230,Franchise Outlet 0230,44.2,124,Top Performer,74.75,99,Good
+OUT0699,Franchise Outlet 0699,45.62,107,Top Performer,74.54,100,Good
+OUT0151,Franchise Outlet 0151,44.29,118,Top Performer,74.38,101,Good
+OUT0051,Franchise Outlet 0051,46.33,95,Top Performer,74.31,102,Good
+OUT0370,Franchise Outlet 0370,46.3,96,Top Performer,74.22,103,Good
+OUT0558,Franchise Outlet 0558,46.09,101,Top Performer,73.94,104,Good
+OUT0222,Franchise Outlet 0222,44.22,121,Top Performer,73.85,105,Good
+OUT0573,Franchise Outlet 0573,42.41,148,Top Performer,73.85,105,Good
+OUT0463,Franchise Outlet 0463,51.68,64,Top Performer,73.53,107,Good
+OUT0467,Franchise Outlet 0467,43.09,136,Top Performer,73.48,108,Good
+OUT0536,Franchise Outlet 0536,43.96,128,Top Performer,73.46,109,Good
+OUT0582,Franchise Outlet 0582,47.97,83,Top Performer,73.42,110,Good
+OUT0175,Franchise Outlet 0175,41.48,164,Top Performer,73.38,111,Good
+OUT0721,Franchise Outlet 0721,40.85,168,Top Performer,73.36,112,Good
+OUT0253,Franchise Outlet 0253,46.63,92,Top Performer,73.35,113,Good
+OUT0239,Franchise Outlet 0239,45.64,106,Top Performer,73.27,114,Good
+OUT0608,Franchise Outlet 0608,50.35,71,Top Performer,73.2,115,Good
+OUT0195,Franchise Outlet 0195,40.59,173,Top Performer,72.82,116,Good
+OUT0580,Franchise Outlet 0580,43.14,135,Top Performer,72.71,117,Good
+OUT0317,Franchise Outlet 0317,50.64,68,Top Performer,72.67,118,Good
+OUT0157,Franchise Outlet 0157,45.22,112,Top Performer,72.66,119,Good
+OUT0490,Franchise Outlet 0490,40.54,175,Top Performer,72.53,120,Good
+OUT0112,Franchise Outlet 0112,42.31,151,Top Performer,72.49,121,Good
+OUT0433,Franchise Outlet 0433,38.84,192,Above Average,72.23,122,Good
+OUT0342,Franchise Outlet 0342,47.43,87,Top Performer,72.1,123,Good
+OUT0669,Franchise Outlet 0669,44.27,120,Top Performer,72.1,123,Good
+OUT0259,Franchise Outlet 0259,44.21,122,Top Performer,72.07,125,Good
+OUT0386,Franchise Outlet 0386,44.28,119,Top Performer,72.01,126,Good
+OUT0592,Franchise Outlet 0592,46.22,98,Top Performer,72.0,127,Good
+OUT0178,Franchise Outlet 0178,42.27,153,Top Performer,71.98,128,Good
+OUT0018,Franchise Outlet 0018,43.42,134,Top Performer,71.85,129,Good
+OUT0134,Franchise Outlet 0134,42.98,139,Top Performer,71.84,130,Good
+OUT0267,Franchise Outlet 0267,43.89,130,Top Performer,71.8,131,Good
+OUT0492,Franchise Outlet 0492,43.84,131,Top Performer,71.73,132,Good
+OUT0085,Franchise Outlet 0085,42.97,140,Top Performer,71.7,133,Good
+OUT0082,Franchise Outlet 0082,44.63,115,Top Performer,71.64,134,Good
+OUT0079,Franchise Outlet 0079,45.5,108,Top Performer,71.58,135,Good
+OUT0632,Franchise Outlet 0632,40.57,174,Top Performer,71.54,136,Good
+OUT0346,Franchise Outlet 0346,45.48,109,Top Performer,71.5,137,Good
+OUT0233,Franchise Outlet 0233,43.01,138,Top Performer,71.49,138,Good
+OUT0382,Franchise Outlet 0382,43.49,133,Top Performer,71.47,139,Good
+OUT0554,Franchise Outlet 0554,41.59,162,Top Performer,71.45,140,Good
+OUT0472,Franchise Outlet 0472,39.74,182,Top Performer,71.42,141,Good
+OUT0111,Franchise Outlet 0111,42.37,149,Top Performer,71.3,142,Good
+OUT0530,Franchise Outlet 0530,42.48,146,Top Performer,71.23,143,Good
+OUT0108,Franchise Outlet 0108,44.46,117,Top Performer,71.21,144,Good
+OUT0597,Franchise Outlet 0597,48.65,77,Top Performer,71.16,145,Good
+OUT0339,Franchise Outlet 0339,44.05,127,Top Performer,71.12,146,Good
+OUT0712,Franchise Outlet 0712,42.35,150,Top Performer,70.98,147,Good
+OUT0526,Franchise Outlet 0526,44.57,116,Top Performer,70.57,148,Good
+OUT0423,Franchise Outlet 0423,46.65,91,Top Performer,70.25,149,Good
+OUT0153,Franchise Outlet 0153,42.28,152,Top Performer,70.03,150,Good
+OUT0718,Franchise Outlet 0718,46.05,103,Top Performer,69.99,151,Good
+OUT0459,Franchise Outlet 0459,46.37,94,Top Performer,69.87,152,Good
+OUT0707,Franchise Outlet 0707,43.78,132,Top Performer,69.78,153,Good
+OUT0256,Franchise Outlet 0256,42.08,155,Top Performer,69.57,154,Good
+OUT0025,Franchise Outlet 0025,40.62,172,Top Performer,69.32,155,Good
+OUT0096,Franchise Outlet 0096,43.04,137,Top Performer,69.31,156,Good
+OUT0456,Franchise Outlet 0456,40.02,179,Top Performer,69.22,157,Good
+OUT0221,Franchise Outlet 0221,42.65,143,Top Performer,68.99,158,Good
+OUT0106,Franchise Outlet 0106,37.98,204,Above Average,68.64,159,Good
+OUT0690,Franchise Outlet 0690,47.19,89,Top Performer,68.63,160,Good
+OUT0119,Franchise Outlet 0119,40.68,171,Top Performer,68.55,161,Good
+OUT0016,Franchise Outlet 0016,42.51,145,Top Performer,68.54,162,Good
+OUT0577,Franchise Outlet 0577,41.49,163,Top Performer,68.39,163,Good
+OUT0203,Franchise Outlet 0203,46.59,93,Top Performer,68.36,164,Good
+OUT0654,Franchise Outlet 0654,39.2,187,Top Performer,68.23,165,Good
+OUT0083,Franchise Outlet 0083,38.28,200,Above Average,68.2,166,Good
+OUT0341,Franchise Outlet 0341,38.74,195,Above Average,68.19,167,Good
+OUT0576,Franchise Outlet 0576,42.45,147,Top Performer,67.88,168,Good
+OUT0631,Franchise Outlet 0631,39.04,189,Above Average,67.88,168,Good
+OUT0100,Franchise Outlet 0100,41.69,160,Top Performer,67.87,170,Good
+OUT0728,Franchise Outlet 0728,40.74,170,Top Performer,67.27,171,Good
+OUT0003,Franchise Outlet 0003,36.56,234,Above Average,67.25,172,Good
+OUT0299,Franchise Outlet 0299,41.64,161,Top Performer,66.94,173,Good
+OUT0031,Franchise Outlet 0031,39.58,183,Top Performer,66.86,174,Good
+OUT0736,Franchise Outlet 0736,38.19,202,Above Average,66.8,175,Good
+OUT0369,Franchise Outlet 0369,38.75,194,Above Average,66.73,176,Good
+OUT0532,Franchise Outlet 0532,40.89,167,Top Performer,66.68,177,Good
+OUT0177,Franchise Outlet 0177,40.02,179,Top Performer,66.52,178,Good
+OUT0470,Franchise Outlet 0470,42.69,142,Top Performer,66.5,179,Good
+OUT0611,Franchise Outlet 0611,38.49,198,Above Average,66.34,180,Good
+OUT0372,Franchise Outlet 0372,40.08,178,Top Performer,66.3,181,Good
+OUT0698,Franchise Outlet 0698,38.29,199,Above Average,66.28,182,Good
+OUT0340,Franchise Outlet 0340,35.78,251,Above Average,66.24,183,Good
+OUT0179,Franchise Outlet 0179,44.85,114,Top Performer,66.21,184,Good
+OUT0287,Franchise Outlet 0287,40.75,169,Top Performer,66.15,185,Good
+OUT0199,Franchise Outlet 0199,41.91,157,Top Performer,66.0,186,Good
+OUT0540,Franchise Outlet 0540,38.92,190,Above Average,65.99,187,Good
+OUT0001,Franchise Outlet 0001,41.3,166,Top Performer,65.99,187,Good
+OUT0496,Franchise Outlet 0496,38.59,196,Above Average,65.73,189,Good
+OUT0623,Franchise Outlet 0623,37.87,208,Above Average,65.67,190,Good
+OUT0210,Franchise Outlet 0210,39.41,185,Top Performer,65.65,191,Good
+OUT0556,Franchise Outlet 0556,37.93,205,Above Average,65.65,191,Good
+OUT0282,Franchise Outlet 0282,36.71,230,Above Average,65.63,193,Good
+OUT0202,Franchise Outlet 0202,40.11,177,Top Performer,65.47,194,Good
+OUT0077,Franchise Outlet 0077,36.68,231,Above Average,65.46,195,Good
+OUT0412,Franchise Outlet 0412,36.68,231,Above Average,65.39,196,Good
+OUT0254,Franchise Outlet 0254,42.07,156,Top Performer,65.39,196,Good
+OUT0127,Franchise Outlet 0127,41.86,159,Top Performer,65.35,198,Good
+OUT0563,Franchise Outlet 0563,34.62,276,Above Average,65.19,199,Good
+OUT0012,Franchise Outlet 0012,39.47,184,Top Performer,65.19,199,Good
+OUT0724,Franchise Outlet 0724,41.9,158,Top Performer,65.1,201,Good
+OUT0714,Franchise Outlet 0714,37.23,222,Above Average,64.88,202,Needs Improvement
+OUT0407,Franchise Outlet 0407,38.87,191,Above Average,64.85,203,Needs Improvement
+OUT0695,Franchise Outlet 0695,37.89,207,Above Average,64.83,204,Needs Improvement
+OUT0295,Franchise Outlet 0295,39.14,188,Top Performer,64.68,205,Needs Improvement
+OUT0314,Franchise Outlet 0314,37.23,222,Above Average,64.65,206,Needs Improvement
+OUT0591,Franchise Outlet 0591,39.92,181,Top Performer,64.65,206,Needs Improvement
+OUT0673,Franchise Outlet 0673,37.68,210,Above Average,64.53,208,Needs Improvement
+OUT0165,Franchise Outlet 0165,36.41,237,Above Average,64.34,209,Needs Improvement
+OUT0207,Franchise Outlet 0207,35.76,253,Above Average,63.82,210,Needs Improvement
+OUT0160,Franchise Outlet 0160,41.39,165,Top Performer,63.62,211,Needs Improvement
+OUT0330,Franchise Outlet 0330,36.84,227,Above Average,63.62,211,Needs Improvement
+OUT0514,Franchise Outlet 0514,35.78,251,Above Average,63.61,213,Needs Improvement
+OUT0666,Franchise Outlet 0666,42.14,154,Top Performer,63.55,214,Needs Improvement
+OUT0426,Franchise Outlet 0426,37.67,211,Above Average,63.47,215,Needs Improvement
+OUT0212,Franchise Outlet 0212,35.76,253,Above Average,63.46,216,Needs Improvement
+OUT0228,Franchise Outlet 0228,37.66,212,Above Average,63.46,216,Needs Improvement
+OUT0185,Franchise Outlet 0185,36.42,236,Above Average,63.4,218,Needs Improvement
+OUT0740,Franchise Outlet 0740,39.23,186,Top Performer,63.38,219,Needs Improvement
+OUT0266,Franchise Outlet 0266,37.44,217,Above Average,63.22,220,Needs Improvement
+OUT0568,Franchise Outlet 0568,38.24,201,Above Average,63.16,221,Needs Improvement
+OUT0531,Franchise Outlet 0531,34.95,272,Above Average,63.0,222,Needs Improvement
+OUT0446,Franchise Outlet 0446,37.93,205,Above Average,62.76,223,Needs Improvement
+OUT0549,Franchise Outlet 0549,40.14,176,Top Performer,62.62,224,Needs Improvement
+OUT0013,Franchise Outlet 0013,36.19,246,Above Average,62.49,225,Needs Improvement
+OUT0638,Franchise Outlet 0638,36.11,247,Above Average,62.42,226,Needs Improvement
+OUT0026,Franchise Outlet 0026,36.28,241,Above Average,62.16,227,Needs Improvement
+OUT0677,Franchise Outlet 0677,36.45,235,Above Average,62.06,228,Needs Improvement
+OUT0416,Franchise Outlet 0416,37.01,224,Above Average,61.96,229,Needs Improvement
+OUT0711,Franchise Outlet 0711,36.84,227,Above Average,61.79,230,Needs Improvement
+OUT0656,Franchise Outlet 0656,35.27,265,Above Average,61.7,231,Needs Improvement
+OUT0420,Franchise Outlet 0420,36.23,243,Above Average,61.65,232,Needs Improvement
+OUT0719,Franchise Outlet 0719,37.25,221,Above Average,61.63,233,Needs Improvement
+OUT0701,Franchise Outlet 0701,34.43,278,Above Average,61.61,234,Needs Improvement
+OUT0375,Franchise Outlet 0375,35.75,256,Above Average,61.52,235,Needs Improvement
+OUT0104,Franchise Outlet 0104,38.07,203,Above Average,61.5,236,Needs Improvement
+OUT0717,Franchise Outlet 0717,35.09,269,Above Average,61.41,237,Needs Improvement
+OUT0019,Franchise Outlet 0019,37.62,213,Above Average,61.34,238,Needs Improvement
+OUT0708,Franchise Outlet 0708,35.11,268,Above Average,61.33,239,Needs Improvement
+OUT0139,Franchise Outlet 0139,38.56,197,Above Average,61.3,240,Needs Improvement
+OUT0218,Franchise Outlet 0218,36.32,240,Above Average,61.29,241,Needs Improvement
+OUT0379,Franchise Outlet 0379,37.74,209,Above Average,61.27,242,Needs Improvement
+OUT0697,Franchise Outlet 0697,35.32,263,Above Average,61.24,243,Needs Improvement
+OUT0041,Franchise Outlet 0041,35.29,264,Above Average,60.85,244,Needs Improvement
+OUT0196,Franchise Outlet 0196,34.51,277,Above Average,60.84,245,Needs Improvement
+OUT0624,Franchise Outlet 0624,36.37,239,Above Average,60.81,246,Needs Improvement
+OUT0542,Franchise Outlet 0542,32.4,323,Above Average,60.79,247,Needs Improvement
+OUT0511,Franchise Outlet 0511,36.77,229,Above Average,60.78,248,Needs Improvement
+OUT0215,Franchise Outlet 0215,33.25,296,Above Average,60.45,249,Needs Improvement
+OUT0074,Franchise Outlet 0074,35.7,257,Above Average,60.33,250,Needs Improvement
+OUT0097,Franchise Outlet 0097,36.2,244,Above Average,60.09,251,Needs Improvement
+OUT0636,Franchise Outlet 0636,37.27,220,Above Average,59.99,252,Needs Improvement
+OUT0519,Franchise Outlet 0519,34.24,284,Above Average,59.88,253,Needs Improvement
+OUT0109,Franchise Outlet 0109,37.38,218,Above Average,59.77,254,Needs Improvement
+OUT0147,Franchise Outlet 0147,34.97,271,Above Average,59.67,255,Needs Improvement
+OUT0107,Franchise Outlet 0107,35.76,253,Above Average,59.65,256,Needs Improvement
+OUT0099,Franchise Outlet 0099,32.63,316,Above Average,59.65,256,Needs Improvement
+OUT0303,Franchise Outlet 0303,36.88,225,Above Average,59.61,258,Needs Improvement
+OUT0480,Franchise Outlet 0480,32.78,310,Above Average,59.58,259,Needs Improvement
+OUT0103,Franchise Outlet 0103,33.05,301,Above Average,59.46,260,Needs Improvement
+OUT0691,Franchise Outlet 0691,34.78,274,Above Average,59.45,261,Needs Improvement
+OUT0014,Franchise Outlet 0014,36.66,233,Above Average,59.39,262,Needs Improvement
+OUT0475,Franchise Outlet 0475,38.77,193,Above Average,59.17,263,Needs Improvement
+OUT0206,Franchise Outlet 0206,32.49,320,Above Average,59.05,264,Needs Improvement
+OUT0338,Franchise Outlet 0338,34.76,275,Above Average,58.99,265,Needs Improvement
+OUT0620,Franchise Outlet 0620,33.73,291,Above Average,58.96,266,Needs Improvement
+OUT0181,Franchise Outlet 0181,33.19,297,Above Average,58.9,267,Needs Improvement
+OUT0520,Franchise Outlet 0520,34.04,286,Above Average,58.79,268,Needs Improvement
+OUT0166,Franchise Outlet 0166,36.87,226,Above Average,58.74,269,Needs Improvement
+OUT0316,Franchise Outlet 0316,37.49,216,Above Average,58.72,270,Needs Improvement
+OUT0234,Franchise Outlet 0234,33.18,298,Above Average,58.71,271,Needs Improvement
+OUT0224,Franchise Outlet 0224,36.24,242,Above Average,58.7,272,Needs Improvement
+OUT0198,Franchise Outlet 0198,35.26,266,Above Average,58.67,273,Needs Improvement
+OUT0070,Franchise Outlet 0070,35.25,267,Above Average,58.66,274,Needs Improvement
+OUT0071,Franchise Outlet 0071,35.85,250,Above Average,58.62,275,Needs Improvement
+OUT0639,Franchise Outlet 0639,33.75,290,Above Average,58.52,276,Needs Improvement
+OUT0258,Franchise Outlet 0258,35.53,261,Above Average,58.41,277,Needs Improvement
+OUT0236,Franchise Outlet 0236,37.58,214,Above Average,58.38,278,Needs Improvement
+OUT0213,Franchise Outlet 0213,35.43,262,Above Average,58.29,279,Needs Improvement
+OUT0510,Franchise Outlet 0510,36.4,238,Above Average,58.24,280,Needs Improvement
+OUT0197,Franchise Outlet 0197,35.54,260,Above Average,58.17,281,Needs Improvement
+OUT0298,Franchise Outlet 0298,30.88,368,Above Average,58.16,282,Needs Improvement
+OUT0353,Franchise Outlet 0353,37.33,219,Above Average,58.16,282,Needs Improvement
+OUT0087,Franchise Outlet 0087,33.33,294,Above Average,58.09,284,Needs Improvement
+OUT0584,Franchise Outlet 0584,35.87,249,Above Average,58.04,285,Needs Improvement
+OUT0406,Franchise Outlet 0406,31.08,362,Above Average,58.0,286,Needs Improvement
+OUT0048,Franchise Outlet 0048,34.13,285,Above Average,57.79,287,Needs Improvement
+OUT0068,Franchise Outlet 0068,36.2,244,Above Average,57.78,288,Needs Improvement
+OUT0603,Franchise Outlet 0603,36.05,248,Above Average,57.64,289,Needs Improvement
+OUT0437,Franchise Outlet 0437,33.31,295,Above Average,57.6,290,Needs Improvement
+OUT0149,Franchise Outlet 0149,33.35,293,Above Average,57.56,291,Needs Improvement
+OUT0264,Franchise Outlet 0264,32.92,305,Above Average,57.5,292,Needs Improvement
+OUT0499,Franchise Outlet 0499,34.4,281,Above Average,57.24,293,Needs Improvement
+OUT0458,Franchise Outlet 0458,32.89,306,Above Average,57.2,294,Needs Improvement
+OUT0348,Franchise Outlet 0348,37.55,215,Above Average,57.2,294,Needs Improvement
+OUT0088,Franchise Outlet 0088,35.68,258,Above Average,57.07,296,Needs Improvement
+OUT0279,Franchise Outlet 0279,32.37,324,Above Average,56.99,297,Needs Improvement
+OUT0017,Franchise Outlet 0017,31.23,359,Above Average,56.95,298,Needs Improvement
+OUT0217,Franchise Outlet 0217,32.03,333,Above Average,56.94,299,Needs Improvement
+OUT0167,Franchise Outlet 0167,31.63,345,Above Average,56.71,300,Needs Improvement
+OUT0534,Franchise Outlet 0534,32.96,303,Above Average,56.57,301,Needs Improvement
+OUT0637,Franchise Outlet 0637,32.59,318,Above Average,56.56,302,Needs Improvement
+OUT0483,Franchise Outlet 0483,35.61,259,Above Average,56.51,303,Needs Improvement
+OUT0694,Franchise Outlet 0694,31.73,341,Above Average,56.38,304,Needs Improvement
+OUT0163,Franchise Outlet 0163,31.96,334,Above Average,56.23,305,Needs Improvement
+OUT0308,Franchise Outlet 0308,34.39,282,Above Average,55.97,306,Needs Improvement
+OUT0680,Franchise Outlet 0680,30.84,370,Above Average,55.71,307,Needs Improvement
+OUT0668,Franchise Outlet 0668,35.09,269,Above Average,55.69,308,Needs Improvement
+OUT0005,Franchise Outlet 0005,32.85,307,Above Average,55.65,309,Needs Improvement
+OUT0537,Franchise Outlet 0537,31.42,355,Above Average,55.61,310,Needs Improvement
+OUT0066,Franchise Outlet 0066,34.02,287,Above Average,55.55,311,Needs Improvement
+OUT0509,Franchise Outlet 0509,33.18,298,Above Average,55.54,312,Needs Improvement
+OUT0034,Franchise Outlet 0034,32.35,325,Above Average,55.53,313,Needs Improvement
+OUT0257,Franchise Outlet 0257,32.28,327,Above Average,55.52,314,Needs Improvement
+OUT0643,Franchise Outlet 0643,30.08,383,Average,55.43,315,Needs Improvement
+OUT0683,Franchise Outlet 0683,32.69,311,Above Average,55.35,316,Needs Improvement
+OUT0533,Franchise Outlet 0533,32.14,330,Above Average,55.07,317,Needs Improvement
+OUT0065,Franchise Outlet 0065,30.27,376,Average,55.05,318,Needs Improvement
+OUT0527,Franchise Outlet 0527,34.91,273,Above Average,54.93,319,Needs Improvement
+OUT0661,Franchise Outlet 0661,33.02,302,Above Average,54.88,320,Needs Improvement
+OUT0255,Franchise Outlet 0255,33.38,292,Above Average,54.84,321,Needs Improvement
+OUT0313,Franchise Outlet 0313,34.43,278,Above Average,54.83,322,Needs Improvement
+OUT0500,Franchise Outlet 0500,31.56,347,Above Average,54.82,323,Needs Improvement
+OUT0488,Franchise Outlet 0488,33.8,289,Above Average,54.69,324,Needs Improvement
+OUT0380,Franchise Outlet 0380,32.95,304,Above Average,54.53,325,Needs Improvement
+OUT0331,Franchise Outlet 0331,30.95,365,Above Average,54.23,326,Needs Improvement
+OUT0055,Franchise Outlet 0055,34.02,287,Above Average,54.17,327,Needs Improvement
+OUT0190,Franchise Outlet 0190,32.85,307,Above Average,54.14,328,Needs Improvement
+OUT0612,Franchise Outlet 0612,34.29,283,Above Average,54.11,329,Needs Improvement
+OUT0180,Franchise Outlet 0180,32.82,309,Above Average,53.99,330,Needs Improvement
+OUT0454,Franchise Outlet 0454,30.49,373,Above Average,53.98,331,Needs Improvement
+OUT0280,Franchise Outlet 0280,32.43,322,Above Average,53.83,332,Needs Improvement
+OUT0529,Franchise Outlet 0529,30.1,381,Average,53.48,333,Needs Improvement
+OUT0360,Franchise Outlet 0360,32.66,315,Above Average,53.13,334,Needs Improvement
+OUT0710,Franchise Outlet 0710,32.67,314,Above Average,53.11,335,Needs Improvement
+OUT0075,Franchise Outlet 0075,31.78,339,Above Average,52.98,336,Needs Improvement
+OUT0318,Franchise Outlet 0318,31.2,360,Above Average,52.97,337,Needs Improvement
+OUT0644,Franchise Outlet 0644,29.06,411,Average,52.96,338,Needs Improvement
+OUT0101,Franchise Outlet 0101,33.09,300,Above Average,52.79,339,Needs Improvement
+OUT0651,Franchise Outlet 0651,30.89,367,Above Average,52.76,340,Needs Improvement
+OUT0269,Franchise Outlet 0269,32.48,321,Above Average,52.64,341,Needs Improvement
+OUT0367,Franchise Outlet 0367,31.33,356,Above Average,52.48,342,Needs Improvement
+OUT0477,Franchise Outlet 0477,32.68,313,Above Average,52.43,343,Needs Improvement
+OUT0616,Franchise Outlet 0616,32.33,326,Above Average,52.43,343,Needs Improvement
+OUT0750,Franchise Outlet 0750,31.5,351,Above Average,52.42,345,Needs Improvement
+OUT0081,Franchise Outlet 0081,30.28,375,Above Average,52.36,346,Needs Improvement
+OUT0436,Franchise Outlet 0436,32.69,311,Above Average,52.18,347,Needs Improvement
+OUT0428,Franchise Outlet 0428,30.5,372,Above Average,52.12,348,Needs Improvement
+OUT0047,Franchise Outlet 0047,31.96,334,Above Average,52.1,349,Needs Improvement
+OUT0059,Franchise Outlet 0059,29.49,397,Average,52.0,350,Needs Improvement
+OUT0373,Franchise Outlet 0373,29.42,400,Average,51.96,351,Needs Improvement
+OUT0523,Franchise Outlet 0523,31.52,349,Above Average,51.93,352,Needs Improvement
+OUT0123,Franchise Outlet 0123,31.62,346,Above Average,51.88,353,Needs Improvement
+OUT0648,Franchise Outlet 0648,29.26,403,Average,51.79,354,Needs Improvement
+OUT0371,Franchise Outlet 0371,31.85,338,Above Average,51.66,355,Needs Improvement
+OUT0455,Franchise Outlet 0455,31.52,349,Above Average,51.62,356,Needs Improvement
+OUT0398,Franchise Outlet 0398,30.17,377,Average,51.52,357,Needs Improvement
+OUT0726,Franchise Outlet 0726,29.41,401,Average,51.46,358,Needs Improvement
+OUT0578,Franchise Outlet 0578,31.89,337,Above Average,51.32,359,Needs Improvement
+OUT0390,Franchise Outlet 0390,28.94,415,Average,51.25,360,Needs Improvement
+OUT0539,Franchise Outlet 0539,31.5,351,Above Average,51.21,361,Needs Improvement
+OUT0130,Franchise Outlet 0130,32.63,316,Above Average,51.17,362,Needs Improvement
+OUT0705,Franchise Outlet 0705,32.25,328,Above Average,51.12,363,Needs Improvement
+OUT0102,Franchise Outlet 0102,30.71,371,Above Average,51.08,364,Needs Improvement
+OUT0211,Franchise Outlet 0211,31.2,360,Above Average,50.9,365,Needs Improvement
+OUT0285,Franchise Outlet 0285,31.24,358,Above Average,50.81,366,Needs Improvement
+OUT0485,Franchise Outlet 0485,31.28,357,Above Average,50.77,367,Needs Improvement
+OUT0105,Franchise Outlet 0105,28.52,430,Average,50.67,368,Needs Improvement
+OUT0503,Franchise Outlet 0503,30.14,379,Average,50.67,368,Needs Improvement
+OUT0297,Franchise Outlet 0297,34.43,278,Above Average,50.53,370,Needs Improvement
+OUT0141,Franchise Outlet 0141,29.96,388,Average,50.53,370,Needs Improvement
+OUT0378,Franchise Outlet 0378,28.92,416,Average,50.4,372,Needs Improvement
+OUT0315,Franchise Outlet 0315,30.99,363,Above Average,50.39,373,Needs Improvement
+OUT0541,Franchise Outlet 0541,29.53,395,Average,50.38,374,Needs Improvement
+OUT0618,Franchise Outlet 0618,29.18,404,Average,50.17,375,Needs Improvement
+OUT0725,Franchise Outlet 0725,32.12,331,Above Average,50.13,376,Needs Improvement
+OUT0550,Franchise Outlet 0550,28.6,426,Average,50.11,377,Needs Improvement
+OUT0358,Franchise Outlet 0358,32.2,329,Above Average,50.01,378,Needs Improvement
+OUT0307,Franchise Outlet 0307,31.71,342,Above Average,49.97,379,Critical
+OUT0029,Franchise Outlet 0029,31.47,353,Above Average,49.97,379,Critical
+OUT0388,Franchise Outlet 0388,29.45,399,Average,49.92,381,Critical
+OUT0304,Franchise Outlet 0304,29.16,405,Average,49.89,382,Critical
+OUT0156,Franchise Outlet 0156,30.34,374,Above Average,49.69,383,Critical
+OUT0383,Franchise Outlet 0383,31.53,348,Above Average,49.66,384,Critical
+OUT0036,Franchise Outlet 0036,29.06,411,Average,49.65,385,Critical
+OUT0015,Franchise Outlet 0015,29.99,387,Average,49.47,386,Critical
+OUT0629,Franchise Outlet 0629,31.65,344,Above Average,49.46,387,Critical
+OUT0240,Franchise Outlet 0240,27.24,456,Average,49.41,388,Critical
+OUT0400,Franchise Outlet 0400,32.58,319,Above Average,49.25,389,Critical
+OUT0733,Franchise Outlet 0733,28.6,426,Average,48.95,390,Critical
+OUT0742,Franchise Outlet 0742,28.64,425,Average,48.92,391,Critical
+OUT0122,Franchise Outlet 0122,29.62,393,Average,48.87,392,Critical
+OUT0739,Franchise Outlet 0739,30.07,384,Average,48.78,393,Critical
+OUT0544,Franchise Outlet 0544,32.05,332,Above Average,48.78,393,Critical
+OUT0504,Franchise Outlet 0504,30.94,366,Above Average,48.65,395,Critical
+OUT0465,Franchise Outlet 0465,29.91,389,Average,48.35,396,Critical
+OUT0032,Franchise Outlet 0032,31.44,354,Above Average,48.2,397,Critical
+OUT0322,Franchise Outlet 0322,29.69,392,Average,48.18,398,Critical
+OUT0478,Franchise Outlet 0478,27.46,452,Average,48.07,399,Critical
+OUT0575,Franchise Outlet 0575,30.87,369,Above Average,48.06,400,Critical
+OUT0741,Franchise Outlet 0741,30.17,377,Average,48.01,401,Critical
+OUT0155,Franchise Outlet 0155,26.12,487,Average,47.95,402,Critical
+OUT0675,Franchise Outlet 0675,28.89,417,Average,47.95,402,Critical
+OUT0590,Franchise Outlet 0590,28.44,432,Average,47.94,404,Critical
+OUT0664,Franchise Outlet 0664,28.83,418,Average,47.71,405,Critical
+OUT0482,Franchise Outlet 0482,31.96,334,Above Average,47.69,406,Critical
+OUT0676,Franchise Outlet 0676,29.7,391,Average,47.6,407,Critical
+OUT0679,Franchise Outlet 0679,26.55,473,Average,47.58,408,Critical
+OUT0327,Franchise Outlet 0327,27.03,461,Average,47.55,409,Critical
+OUT0635,Franchise Outlet 0635,29.16,405,Average,47.38,410,Critical
+OUT0238,Franchise Outlet 0238,30.02,386,Average,47.35,411,Critical
+OUT0362,Franchise Outlet 0362,30.99,363,Above Average,47.33,412,Critical
+OUT0655,Franchise Outlet 0655,25.79,497,Average,47.32,413,Critical
+OUT0281,Franchise Outlet 0281,27.77,443,Average,47.3,414,Critical
+OUT0064,Franchise Outlet 0064,27.89,441,Average,47.29,415,Critical
+OUT0183,Franchise Outlet 0183,28.16,438,Average,47.24,416,Critical
+OUT0466,Franchise Outlet 0466,30.04,385,Average,46.98,417,Critical
+OUT0035,Franchise Outlet 0035,27.49,450,Average,46.97,418,Critical
+OUT0265,Franchise Outlet 0265,28.17,437,Average,46.88,419,Critical
+OUT0464,Franchise Outlet 0464,29.16,405,Average,46.76,420,Critical
+OUT0634,Franchise Outlet 0634,26.95,463,Average,46.6,421,Critical
+OUT0027,Franchise Outlet 0027,29.11,410,Average,46.47,422,Critical
+OUT0545,Franchise Outlet 0545,28.41,433,Average,46.45,423,Critical
+OUT0126,Franchise Outlet 0126,27.33,455,Average,46.36,424,Critical
+OUT0633,Franchise Outlet 0633,30.09,382,Average,46.01,425,Critical
+OUT0744,Franchise Outlet 0744,29.62,393,Average,45.75,426,Critical
+OUT0564,Franchise Outlet 0564,31.76,340,Above Average,45.46,427,Critical
+OUT0512,Franchise Outlet 0512,29.14,408,Average,45.45,428,Critical
+OUT0334,Franchise Outlet 0334,30.12,380,Average,45.42,429,Critical
+OUT0596,Franchise Outlet 0596,29.13,409,Average,45.41,430,Critical
+OUT0486,Franchise Outlet 0486,28.98,414,Average,45.39,431,Critical
+OUT0084,Franchise Outlet 0084,29.47,398,Average,45.33,432,Critical
+OUT0652,Franchise Outlet 0652,26.38,477,Average,44.99,433,Critical
+OUT0209,Franchise Outlet 0209,28.41,433,Average,44.89,434,Critical
+OUT0376,Franchise Outlet 0376,26.81,466,Average,44.87,435,Critical
+OUT0385,Franchise Outlet 0385,28.6,426,Average,44.8,436,Critical
+OUT0574,Franchise Outlet 0574,26.81,466,Average,44.71,437,Critical
+OUT0268,Franchise Outlet 0268,25.85,495,Average,44.67,438,Critical
+OUT0547,Franchise Outlet 0547,28.65,423,Average,44.54,439,Critical
+OUT0409,Franchise Outlet 0409,31.68,343,Above Average,44.38,440,Critical
+OUT0244,Franchise Outlet 0244,27.6,447,Average,44.37,441,Critical
+OUT0080,Franchise Outlet 0080,27.65,446,Average,44.36,442,Critical
+OUT0502,Franchise Outlet 0502,26.51,474,Average,44.33,443,Critical
+OUT0216,Franchise Outlet 0216,27.95,440,Average,44.19,444,Critical
+OUT0585,Franchise Outlet 0585,28.71,422,Average,44.15,445,Critical
+OUT0427,Franchise Outlet 0427,29.75,390,Average,44.11,446,Critical
+OUT0040,Franchise Outlet 0040,29.5,396,Average,44.09,447,Critical
+OUT0291,Franchise Outlet 0291,28.65,423,Average,43.81,448,Critical
+OUT0296,Franchise Outlet 0296,26.29,480,Average,43.81,448,Critical
+OUT0063,Franchise Outlet 0063,26.56,472,Average,43.66,450,Critical
+OUT0326,Franchise Outlet 0326,28.46,431,Average,43.53,451,Critical
+OUT0292,Franchise Outlet 0292,27.46,452,Average,43.49,452,Critical
+OUT0114,Franchise Outlet 0114,29.35,402,Average,43.29,453,Critical
+OUT0225,Franchise Outlet 0225,27.15,458,Average,43.24,454,Critical
+OUT0687,Franchise Outlet 0687,26.12,487,Average,43.03,455,Critical
+OUT0110,Franchise Outlet 0110,25.29,506,Average,43.0,456,Critical
+OUT0461,Franchise Outlet 0461,29.02,413,Average,42.76,457,Critical
+OUT0022,Franchise Outlet 0022,28.25,435,Average,42.68,458,Critical
+OUT0076,Franchise Outlet 0076,28.78,420,Average,42.64,459,Critical
+OUT0626,Franchise Outlet 0626,24.99,515,Average,42.2,460,Critical
+OUT0182,Franchise Outlet 0182,27.55,448,Average,42.18,461,Critical
+OUT0056,Franchise Outlet 0056,27.47,451,Average,41.98,462,Critical
+OUT0146,Franchise Outlet 0146,24.3,532,Average,41.89,463,Critical
+OUT0607,Franchise Outlet 0607,26.44,475,Average,41.84,464,Critical
+OUT0320,Franchise Outlet 0320,27.14,459,Average,41.73,465,Critical
+OUT0462,Franchise Outlet 0462,27.09,460,Average,41.7,466,Critical
+OUT0665,Franchise Outlet 0665,26.22,482,Average,41.68,467,Critical
+OUT0271,Franchise Outlet 0271,28.58,429,Average,41.64,468,Critical
+OUT0524,Franchise Outlet 0524,25.2,508,Average,41.62,469,Critical
+OUT0730,Franchise Outlet 0730,27.72,445,Average,41.59,470,Critical
+OUT0252,Franchise Outlet 0252,26.18,485,Average,41.51,471,Critical
+OUT0565,Franchise Outlet 0565,27.44,454,Average,41.44,472,Critical
+OUT0553,Franchise Outlet 0553,25.79,497,Average,40.9,473,Critical
+OUT0350,Franchise Outlet 0350,26.38,477,Average,40.9,473,Critical
+OUT0543,Franchise Outlet 0543,24.51,524,Average,40.87,475,Critical
+OUT0337,Franchise Outlet 0337,28.81,419,Average,40.85,476,Critical
+OUT0613,Franchise Outlet 0613,24.83,517,Average,40.85,476,Critical
+OUT0024,Franchise Outlet 0024,25.37,504,Average,40.83,478,Critical
+OUT0599,Franchise Outlet 0599,26.29,480,Average,40.82,479,Critical
+OUT0453,Franchise Outlet 0453,28.76,421,Average,40.69,480,Critical
+OUT0007,Franchise Outlet 0007,26.96,462,Average,40.68,481,Critical
+OUT0008,Franchise Outlet 0008,27.78,442,Average,40.56,482,Critical
+OUT0132,Franchise Outlet 0132,24.45,529,Average,40.54,483,Critical
+OUT0450,Franchise Outlet 0450,25.96,492,Average,40.51,484,Critical
+OUT0133,Franchise Outlet 0133,27.55,448,Average,40.45,485,Critical
+OUT0657,Franchise Outlet 0657,24.07,537,Average,40.29,486,Critical
+OUT0138,Franchise Outlet 0138,24.78,519,Average,40.28,487,Critical
+OUT0355,Franchise Outlet 0355,26.82,465,Average,40.26,488,Critical
+OUT0706,Franchise Outlet 0706,24.51,524,Average,40.24,489,Critical
+OUT0431,Franchise Outlet 0431,25.13,513,Average,40.13,490,Critical
+OUT0517,Franchise Outlet 0517,23.39,564,Below Average,40.08,491,Critical
+OUT0226,Franchise Outlet 0226,25.92,493,Average,39.98,492,Critical
+OUT0273,Franchise Outlet 0273,27.19,457,Average,39.95,493,Critical
+OUT0411,Franchise Outlet 0411,24.66,520,Average,39.67,494,Critical
+OUT0135,Franchise Outlet 0135,28.23,436,Average,39.55,495,Critical
+OUT0678,Franchise Outlet 0678,27.75,444,Average,39.35,496,Critical
+OUT0093,Franchise Outlet 0093,26.83,464,Average,39.31,497,Critical
+OUT0438,Franchise Outlet 0438,25.14,509,Average,39.22,498,Critical
+OUT0154,Franchise Outlet 0154,26.64,471,Average,39.21,499,Critical
+OUT0235,Franchise Outlet 0235,23.6,555,Average,39.12,500,Critical
+OUT0321,Franchise Outlet 0321,26.35,479,Average,38.9,501,Critical
+OUT0176,Franchise Outlet 0176,26.21,483,Average,38.77,502,Critical
+OUT0570,Franchise Outlet 0570,23.98,540,Average,38.76,503,Critical
+OUT0722,Franchise Outlet 0722,24.58,521,Average,38.68,504,Critical
+OUT0046,Franchise Outlet 0046,23.26,567,Below Average,38.62,505,Critical
+OUT0384,Franchise Outlet 0384,28.02,439,Average,38.55,506,Critical
+OUT0200,Franchise Outlet 0200,24.55,522,Average,38.54,507,Critical
+OUT0709,Franchise Outlet 0709,22.81,579,Below Average,38.52,508,Critical
+OUT0242,Franchise Outlet 0242,25.28,507,Average,38.44,509,Critical
+OUT0161,Franchise Outlet 0161,26.21,483,Average,38.32,510,Critical
+OUT0377,Franchise Outlet 0377,24.16,535,Average,38.31,511,Critical
+OUT0447,Franchise Outlet 0447,23.77,549,Average,38.24,512,Critical
+OUT0293,Franchise Outlet 0293,24.49,528,Average,38.14,513,Critical
+OUT0243,Franchise Outlet 0243,23.6,555,Average,38.02,514,Critical
+OUT0060,Franchise Outlet 0060,22.82,578,Below Average,37.96,515,Critical
+OUT0552,Franchise Outlet 0552,26.01,491,Average,37.84,516,Critical
+OUT0057,Franchise Outlet 0057,22.83,577,Below Average,37.84,516,Critical
+OUT0043,Franchise Outlet 0043,26.66,470,Average,37.84,516,Critical
+OUT0746,Franchise Outlet 0746,26.8,468,Average,37.81,519,Critical
+OUT0174,Franchise Outlet 0174,22.18,594,Below Average,37.73,520,Critical
+OUT0262,Franchise Outlet 0262,22.2,593,Below Average,37.72,521,Critical
+OUT0193,Franchise Outlet 0193,23.29,565,Below Average,37.7,522,Critical
+OUT0551,Franchise Outlet 0551,25.88,494,Average,37.66,523,Critical
+OUT0037,Franchise Outlet 0037,26.15,486,Average,37.58,524,Critical
+OUT0605,Franchise Outlet 0605,23.56,559,Average,37.31,525,Critical
+OUT0095,Franchise Outlet 0095,24.08,536,Average,37.29,526,Critical
+OUT0414,Franchise Outlet 0414,23.87,547,Average,37.21,527,Critical
+OUT0274,Franchise Outlet 0274,23.88,545,Average,37.18,528,Critical
+OUT0159,Franchise Outlet 0159,23.4,563,Below Average,37.15,529,Critical
+OUT0546,Franchise Outlet 0546,22.75,582,Below Average,37.06,530,Critical
+OUT0601,Franchise Outlet 0601,25.82,496,Average,36.98,531,Critical
+OUT0410,Franchise Outlet 0410,24.17,534,Average,36.9,532,Critical
+OUT0364,Franchise Outlet 0364,25.14,509,Average,36.78,533,Critical
+OUT0403,Franchise Outlet 0403,24.22,533,Average,36.7,534,Critical
+OUT0333,Franchise Outlet 0333,25.65,500,Average,36.64,535,Critical
+OUT0528,Franchise Outlet 0528,23.68,551,Average,36.58,536,Critical
+OUT0186,Franchise Outlet 0186,25.64,501,Average,36.44,537,Critical
+OUT0479,Franchise Outlet 0479,25.46,503,Average,36.4,538,Critical
+OUT0444,Franchise Outlet 0444,25.13,513,Average,36.0,539,Critical
+OUT0336,Franchise Outlet 0336,26.05,489,Average,35.93,540,Critical
+OUT0220,Franchise Outlet 0220,23.63,552,Average,35.45,541,Critical
+OUT0405,Franchise Outlet 0405,23.56,559,Average,35.35,542,Critical
+OUT0023,Franchise Outlet 0023,25.79,497,Average,35.33,543,Critical
+OUT0439,Franchise Outlet 0439,23.63,552,Average,35.0,544,Critical
+OUT0356,Franchise Outlet 0356,23.18,569,Below Average,34.97,545,Critical
+OUT0223,Franchise Outlet 0223,22.28,589,Below Average,34.93,546,Critical
+OUT0418,Franchise Outlet 0418,22.62,586,Below Average,34.89,547,Critical
+OUT0319,Franchise Outlet 0319,26.72,469,Average,34.89,547,Critical
+OUT0619,Franchise Outlet 0619,26.44,475,Average,34.88,549,Critical
+OUT0658,Franchise Outlet 0658,23.59,557,Average,34.78,550,Critical
+OUT0219,Franchise Outlet 0219,19.7,644,Below Average,34.7,551,Critical
+OUT0692,Franchise Outlet 0692,23.57,558,Average,34.53,552,Critical
+OUT0396,Franchise Outlet 0396,19.13,661,Below Average,34.48,553,Critical
+OUT0417,Franchise Outlet 0417,24.44,530,Average,34.25,554,Critical
+OUT0229,Franchise Outlet 0229,23.77,549,Average,34.14,555,Critical
+OUT0747,Franchise Outlet 0747,23.12,570,Below Average,34.11,556,Critical
+OUT0434,Franchise Outlet 0434,22.77,581,Below Average,34.09,557,Critical
+OUT0402,Franchise Outlet 0402,21.91,599,Below Average,34.01,558,Critical
+OUT0143,Franchise Outlet 0143,24.8,518,Average,34.0,559,Critical
+OUT0649,Franchise Outlet 0649,21.65,603,Below Average,33.91,560,Critical
+OUT0246,Franchise Outlet 0246,23.95,542,Average,33.88,561,Critical
+OUT0548,Franchise Outlet 0548,26.04,490,Average,33.81,562,Critical
+OUT0621,Franchise Outlet 0621,22.29,588,Below Average,33.78,563,Critical
+OUT0494,Franchise Outlet 0494,23.01,574,Below Average,33.74,564,Critical
+OUT0682,Franchise Outlet 0682,23.2,568,Below Average,33.72,565,Critical
+OUT0729,Franchise Outlet 0729,21.79,602,Below Average,33.7,566,Critical
+OUT0277,Franchise Outlet 0277,21.84,601,Below Average,33.46,567,Critical
+OUT0538,Franchise Outlet 0538,23.51,561,Average,33.4,568,Critical
+OUT0173,Franchise Outlet 0173,24.04,538,Average,33.4,568,Critical
+OUT0365,Franchise Outlet 0365,23.27,566,Below Average,33.21,570,Critical
+OUT0589,Franchise Outlet 0589,21.14,614,Below Average,33.17,571,Critical
+OUT0688,Franchise Outlet 0688,23.96,541,Average,33.14,572,Critical
+OUT0366,Franchise Outlet 0366,25.14,509,Average,33.12,573,Critical
+OUT0374,Franchise Outlet 0374,23.61,554,Average,33.0,574,Critical
+OUT0424,Franchise Outlet 0424,23.1,572,Below Average,32.84,575,Critical
+OUT0072,Franchise Outlet 0072,20.83,619,Below Average,32.8,576,Critical
+OUT0493,Franchise Outlet 0493,20.5,627,Below Average,32.78,577,Critical
+OUT0474,Franchise Outlet 0474,22.33,587,Below Average,32.76,578,Critical
+OUT0312,Franchise Outlet 0312,24.31,531,Average,32.69,579,Critical
+OUT0343,Franchise Outlet 0343,22.98,575,Below Average,32.56,580,Critical
+OUT0696,Franchise Outlet 0696,23.03,573,Below Average,32.48,581,Critical
+OUT0098,Franchise Outlet 0098,23.12,570,Below Average,32.47,582,Critical
+OUT0309,Franchise Outlet 0309,21.24,611,Below Average,32.38,583,Critical
+OUT0598,Franchise Outlet 0598,25.14,509,Average,32.38,583,Critical
+OUT0609,Franchise Outlet 0609,23.49,562,Average,32.3,585,Critical
+OUT0310,Franchise Outlet 0310,22.01,596,Below Average,32.14,586,Critical
+OUT0142,Franchise Outlet 0142,24.54,523,Average,32.13,587,Critical
+OUT0201,Franchise Outlet 0201,23.89,544,Average,31.97,588,Critical
+OUT0169,Franchise Outlet 0169,21.4,609,Below Average,31.86,589,Critical
+OUT0481,Franchise Outlet 0481,22.28,589,Below Average,31.79,590,Critical
+OUT0684,Franchise Outlet 0684,25.62,502,Average,31.76,591,Critical
+OUT0745,Franchise Outlet 0745,20.26,631,Below Average,31.73,592,Critical
+OUT0328,Franchise Outlet 0328,19.83,639,Below Average,31.63,593,Critical
+OUT0440,Franchise Outlet 0440,24.01,539,Average,31.62,594,Critical
+OUT0323,Franchise Outlet 0323,22.88,576,Below Average,31.52,595,Critical
+OUT0689,Franchise Outlet 0689,24.95,516,Average,31.49,596,Critical
+OUT0168,Franchise Outlet 0168,21.03,615,Below Average,31.39,597,Critical
+OUT0363,Franchise Outlet 0363,22.17,595,Below Average,31.34,598,Critical
+OUT0030,Franchise Outlet 0030,25.35,505,Average,31.14,599,Critical
+OUT0052,Franchise Outlet 0052,21.48,605,Below Average,30.99,600,Critical
+OUT0393,Franchise Outlet 0393,20.69,625,Below Average,30.96,601,Critical
+OUT0731,Franchise Outlet 0731,24.5,527,Average,30.95,602,Critical
+OUT0306,Franchise Outlet 0306,20.59,626,Below Average,30.89,603,Critical
+OUT0020,Franchise Outlet 0020,23.95,542,Average,30.87,604,Critical
+OUT0653,Franchise Outlet 0653,22.64,585,Below Average,30.61,605,Critical
+OUT0430,Franchise Outlet 0430,21.47,606,Below Average,30.61,605,Critical
+OUT0394,Franchise Outlet 0394,19.66,647,Below Average,30.51,607,Critical
+OUT0501,Franchise Outlet 0501,20.73,624,Below Average,30.39,608,Critical
+OUT0443,Franchise Outlet 0443,20.76,621,Below Average,30.33,609,Critical
+OUT0399,Franchise Outlet 0399,24.51,524,Average,30.29,610,Critical
+OUT0004,Franchise Outlet 0004,22.0,598,Below Average,30.27,611,Critical
+OUT0117,Franchise Outlet 0117,21.23,612,Below Average,30.07,612,Critical
+OUT0272,Franchise Outlet 0272,21.15,613,Below Average,30.02,613,Critical
+OUT0559,Franchise Outlet 0559,21.46,607,Below Average,30.0,614,Critical
+OUT0351,Franchise Outlet 0351,20.13,637,Below Average,29.94,615,Critical
+OUT0002,Franchise Outlet 0002,20.21,633,Below Average,29.85,616,Critical
+OUT0727,Franchise Outlet 0727,22.7,583,Below Average,29.81,617,Critical
+OUT0090,Franchise Outlet 0090,21.0,616,Below Average,29.78,618,Critical
+OUT0131,Franchise Outlet 0131,22.24,591,Below Average,29.58,619,Critical
+OUT0120,Franchise Outlet 0120,22.68,584,Below Average,29.49,620,Critical
+OUT0347,Franchise Outlet 0347,19.79,641,Below Average,29.42,621,Critical
+OUT0429,Franchise Outlet 0429,20.89,618,Below Average,29.31,622,Critical
+OUT0451,Franchise Outlet 0451,19.26,659,Below Average,29.29,623,Critical
+OUT0113,Franchise Outlet 0113,20.17,634,Below Average,29.24,624,Critical
+OUT0389,Franchise Outlet 0389,20.32,630,Below Average,29.17,625,Critical
+OUT0593,Franchise Outlet 0593,22.01,596,Below Average,29.12,626,Critical
+OUT0283,Franchise Outlet 0283,20.23,632,Below Average,28.99,627,Critical
+OUT0050,Franchise Outlet 0050,18.98,665,Below Average,28.97,628,Critical
+OUT0628,Franchise Outlet 0628,23.8,548,Average,28.84,629,Critical
+OUT0128,Franchise Outlet 0128,19.69,645,Below Average,28.64,630,Critical
+OUT0645,Franchise Outlet 0645,21.45,608,Below Average,28.32,631,Critical
+OUT0518,Franchise Outlet 0518,20.15,636,Below Average,28.22,632,Critical
+OUT0150,Franchise Outlet 0150,22.21,592,Below Average,28.18,633,Critical
+OUT0566,Franchise Outlet 0566,19.58,648,Below Average,28.1,634,Critical
+OUT0062,Franchise Outlet 0062,20.08,638,Below Average,28.07,635,Critical
+OUT0115,Franchise Outlet 0115,20.78,620,Below Average,27.97,636,Critical
+OUT0237,Franchise Outlet 0237,18.11,684,Below Average,27.96,637,Critical
+OUT0170,Franchise Outlet 0170,19.53,650,Below Average,27.63,638,Critical
+OUT0263,Franchise Outlet 0263,19.03,663,Below Average,27.48,639,Critical
+OUT0460,Franchise Outlet 0460,23.88,545,Average,27.34,640,Critical
+OUT0069,Franchise Outlet 0069,18.81,669,Below Average,27.17,641,Critical
+OUT0187,Franchise Outlet 0187,18.15,683,Below Average,27.12,642,Critical
+OUT0397,Franchise Outlet 0397,19.45,653,Below Average,27.1,643,Critical
+OUT0231,Franchise Outlet 0231,20.5,627,Below Average,26.41,644,Critical
+OUT0415,Franchise Outlet 0415,18.43,676,Below Average,26.21,645,Critical
+OUT0352,Franchise Outlet 0352,19.29,658,Below Average,26.21,645,Critical
+OUT0345,Franchise Outlet 0345,18.75,670,Below Average,25.97,647,Critical
+OUT0720,Franchise Outlet 0720,18.87,667,Below Average,25.74,648,Critical
+OUT0497,Franchise Outlet 0497,17.49,694,Below Average,25.71,649,Critical
+OUT0058,Franchise Outlet 0058,18.32,679,Below Average,25.67,650,Critical
+OUT0227,Franchise Outlet 0227,17.91,690,Below Average,25.53,651,Critical
+OUT0507,Franchise Outlet 0507,18.59,673,Below Average,25.45,652,Critical
+OUT0042,Franchise Outlet 0042,22.8,580,Below Average,25.43,653,Critical
+OUT0715,Franchise Outlet 0715,21.3,610,Below Average,25.27,654,Critical
+OUT0391,Franchise Outlet 0391,20.93,617,Below Average,25.23,655,Critical
+OUT0148,Franchise Outlet 0148,20.17,634,Below Average,25.05,656,Critical
+OUT0505,Franchise Outlet 0505,19.79,641,Below Average,24.95,657,Critical
+OUT0569,Franchise Outlet 0569,21.9,600,Below Average,24.86,658,Critical
+OUT0125,Franchise Outlet 0125,19.8,640,Below Average,24.85,659,Critical
+OUT0555,Franchise Outlet 0555,19.71,643,Below Average,24.85,659,Critical
+OUT0749,Franchise Outlet 0749,18.32,679,Below Average,24.71,661,Critical
+OUT0011,Franchise Outlet 0011,19.32,656,Below Average,24.7,662,Critical
+OUT0232,Franchise Outlet 0232,21.59,604,Below Average,24.54,663,Critical
+OUT0152,Franchise Outlet 0152,17.63,691,Below Average,24.52,664,Critical
+OUT0172,Franchise Outlet 0172,17.97,688,Below Average,24.37,665,Critical
+OUT0622,Franchise Outlet 0622,20.74,623,Below Average,24.37,665,Critical
+OUT0704,Franchise Outlet 0704,19.67,646,Below Average,24.35,667,Critical
+OUT0325,Franchise Outlet 0325,20.75,622,Below Average,24.15,668,Critical
+OUT0557,Franchise Outlet 0557,16.62,705,Below Average,24.03,669,Critical
+OUT0586,Franchise Outlet 0586,18.68,672,Below Average,24.0,670,Critical
+OUT0145,Franchise Outlet 0145,18.27,681,Below Average,23.94,671,Critical
+OUT0054,Franchise Outlet 0054,18.4,678,Below Average,23.91,672,Critical
+OUT0387,Franchise Outlet 0387,19.47,652,Below Average,23.82,673,Critical
+OUT0078,Franchise Outlet 0078,17.52,693,Below Average,23.82,673,Critical
+OUT0630,Franchise Outlet 0630,17.24,696,Below Average,23.51,675,Critical
+OUT0302,Franchise Outlet 0302,19.25,660,Below Average,23.46,676,Critical
+OUT0368,Franchise Outlet 0368,19.48,651,Below Average,23.34,677,Critical
+OUT0681,Franchise Outlet 0681,18.27,681,Below Average,23.3,678,Critical
+OUT0208,Franchise Outlet 0208,19.44,654,Below Average,23.03,679,Critical
+OUT0392,Franchise Outlet 0392,18.42,677,Below Average,22.7,680,Critical
+OUT0038,Franchise Outlet 0038,16.66,703,Below Average,22.69,681,Critical
+OUT0144,Franchise Outlet 0144,17.23,697,Below Average,22.66,682,Critical
+OUT0738,Franchise Outlet 0738,19.31,657,Below Average,22.14,683,Critical
+OUT0089,Franchise Outlet 0089,18.99,664,Below Average,22.12,684,Critical
+OUT0188,Franchise Outlet 0188,19.56,649,Below Average,22.0,685,Critical
+OUT0357,Franchise Outlet 0357,20.42,629,Below Average,21.8,686,Critical
+OUT0487,Franchise Outlet 0487,18.9,666,Below Average,21.37,687,Critical
+OUT0659,Franchise Outlet 0659,19.4,655,Below Average,20.88,688,Critical
+OUT0094,Franchise Outlet 0094,18.54,674,Below Average,20.49,689,Critical
+OUT0602,Franchise Outlet 0602,17.56,692,Below Average,20.37,690,Critical
+OUT0301,Franchise Outlet 0301,17.26,695,Below Average,20.15,691,Critical
+OUT0614,Franchise Outlet 0614,18.86,668,Below Average,20.09,692,Critical
+OUT0610,Franchise Outlet 0610,15.52,712,Below Average,19.99,693,Critical
+OUT0251,Franchise Outlet 0251,14.43,724,Below Average,19.88,694,Critical
+OUT0006,Franchise Outlet 0006,17.92,689,Below Average,19.67,695,Critical
+OUT0260,Franchise Outlet 0260,17.98,686,Below Average,19.27,696,Critical
+OUT0289,Franchise Outlet 0289,16.26,706,Below Average,18.82,697,Critical
+OUT0121,Franchise Outlet 0121,18.53,675,Below Average,18.74,698,Critical
+OUT0600,Franchise Outlet 0600,18.03,685,Below Average,18.6,699,Critical
+OUT0588,Franchise Outlet 0588,17.98,686,Below Average,18.55,700,Critical
+OUT0432,Franchise Outlet 0432,15.94,711,Below Average,18.5,701,Critical
+OUT0650,Franchise Outlet 0650,16.21,708,Below Average,18.5,701,Critical
+OUT0214,Franchise Outlet 0214,16.65,704,Below Average,18.42,703,Critical
+OUT0662,Franchise Outlet 0662,18.7,671,Below Average,18.14,704,Critical
+OUT0278,Franchise Outlet 0278,15.26,715,Below Average,18.1,705,Critical
+OUT0261,Franchise Outlet 0261,15.01,719,Below Average,18.05,706,Critical
+OUT0189,Franchise Outlet 0189,16.68,702,Below Average,17.87,707,Critical
+OUT0663,Franchise Outlet 0663,14.79,721,Below Average,17.86,708,Critical
+OUT0587,Franchise Outlet 0587,16.16,709,Below Average,17.82,709,Critical
+OUT0425,Franchise Outlet 0425,15.45,714,Below Average,17.76,710,Critical
+OUT0625,Franchise Outlet 0625,14.24,728,Below Average,17.7,711,Critical
+OUT0073,Franchise Outlet 0073,17.17,698,Below Average,17.51,712,Critical
+OUT0404,Franchise Outlet 0404,19.04,662,Below Average,17.44,713,Critical
+OUT0495,Franchise Outlet 0495,14.93,720,Below Average,17.28,714,Critical
+OUT0124,Franchise Outlet 0124,14.48,723,Below Average,17.07,715,Critical
+OUT0136,Franchise Outlet 0136,15.04,717,Below Average,17.06,716,Critical
+OUT0408,Franchise Outlet 0408,15.03,718,Below Average,16.7,717,Critical
+OUT0329,Franchise Outlet 0329,17.12,699,Below Average,16.69,718,Critical
+OUT0204,Franchise Outlet 0204,17.05,700,Below Average,16.68,719,Critical
+OUT0164,Franchise Outlet 0164,14.42,725,Below Average,16.58,720,Critical
+OUT0305,Franchise Outlet 0305,16.24,707,Below Average,16.52,721,Critical
+OUT0508,Franchise Outlet 0508,16.15,710,Below Average,16.3,722,Critical
+OUT0205,Franchise Outlet 0205,14.32,726,Below Average,16.07,723,Critical
+OUT0448,Franchise Outlet 0448,14.62,722,Below Average,15.95,724,Critical
+OUT0421,Franchise Outlet 0421,13.96,729,Below Average,15.84,725,Critical
+OUT0583,Franchise Outlet 0583,16.82,701,Below Average,15.71,726,Critical
+OUT0191,Franchise Outlet 0191,12.77,735,Below Average,15.53,727,Critical
+OUT0491,Franchise Outlet 0491,15.48,713,Below Average,15.51,728,Critical
+OUT0284,Franchise Outlet 0284,13.6,731,Below Average,15.49,729,Critical
+OUT0449,Franchise Outlet 0449,12.81,733,Below Average,14.97,730,Critical
+OUT0162,Franchise Outlet 0162,15.08,716,Below Average,14.93,731,Critical
+OUT0452,Franchise Outlet 0452,13.06,732,Below Average,14.69,732,Critical
+OUT0686,Franchise Outlet 0686,12.79,734,Below Average,13.43,733,Critical
+OUT0567,Franchise Outlet 0567,12.44,737,Below Average,12.68,734,Critical
+OUT0670,Franchise Outlet 0670,13.87,730,Below Average,12.59,735,Critical
+OUT0248,Franchise Outlet 0248,14.29,727,Below Average,12.48,736,Critical
+OUT0241,Franchise Outlet 0241,11.71,743,Below Average,12.24,737,Critical
+OUT0184,Franchise Outlet 0184,11.72,742,Below Average,12.08,738,Critical
+OUT0700,Franchise Outlet 0700,11.78,741,Below Average,11.34,739,Critical
+OUT0288,Franchise Outlet 0288,12.04,738,Below Average,10.6,740,Critical
+OUT0498,Franchise Outlet 0498,11.7,744,Below Average,10.33,741,Critical
+OUT0270,Franchise Outlet 0270,11.95,739,Below Average,10.13,742,Critical
+OUT0674,Franchise Outlet 0674,12.51,736,Below Average,10.07,743,Critical
+OUT0092,Franchise Outlet 0092,11.05,747,Below Average,9.62,744,Critical
+OUT0335,Franchise Outlet 0335,11.6,745,Below Average,9.49,745,Critical
+OUT0344,Franchise Outlet 0344,11.13,746,Below Average,9.24,746,Critical
+OUT0286,Franchise Outlet 0286,11.82,740,Below Average,8.72,747,Critical
+OUT0053,Franchise Outlet 0053,9.29,749,Below Average,7.12,748,Critical
+OUT0045,Franchise Outlet 0045,9.83,748,Below Average,6.88,749,Critical
+OUT0442,Franchise Outlet 0442,9.29,749,Below Average,5.95,750,Critical

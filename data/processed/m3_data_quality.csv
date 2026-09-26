@@ -1,0 +1,2 @@
+status,source_rows,prepared_rows,duplicate_keys_removed,record_id_duplicates,outlets,months,campaigns,core_missing_cells,milestone3_missing_cells,engagement_max_error_pct
+Passed,30120,30000,120,0,750,40,30000,2048,0,0.005000000000000782
