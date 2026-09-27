@@ -1,7 +1,5 @@
 # FranchiseOps AI — Milestone 4
 
-Executive dashboard with separate Python agents, Flask, vanilla JavaScript and SQLite. No Streamlit. Based on `Nishanth1405-max/FranchiseOps-AI`, branch `feature/m3-dashboard`, commit `fd0273a2020c755cb385bf0ba080d840c0160226`.
-
 ## Run locally
 
 Use Python 3.12. From this folder:
