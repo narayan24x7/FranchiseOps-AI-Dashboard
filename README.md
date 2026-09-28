@@ -1,5 +1,7 @@
 # FranchiseOps AI — Milestone 4
 
+Executive dashboard with separate Python agents, Flask, vanilla JavaScript and SQLite. No Streamlit. Based on `Nishanth1405-max/FranchiseOps-AI`, branch `feature/m3-dashboard`, commit `fd0273a2020c755cb385bf0ba080d840c0160226`.
+
 ## Run locally
 
 Use Python 3.12. From this folder:
@@ -79,9 +81,9 @@ The existing agent folders and raw workbooks are retained. The old Streamlit app
 
 Publication requires unique outlet/month sales keys, complete required columns, valid months, finite financial values, nonnegative revenue/orders, unique complete outlet coverage in all score inputs and driver scores between 0 and 100. Existing source adapters use median imputation for specified numeric gaps and deduplicate outlet/month rows. SQLite publishes outlet facts, sales facts and M4 snapshots in one transaction; validation failures preserve the previous M4 snapshot.
 
-Audit rules are deterministic operational checks, not legal/compliance certification: latest-month profit below zero; latest-month satisfaction below 3/5; period attendance below 90%; period campaign ROI below zero; latest inventory score below 60. Audit score starts at 100, subtracts 20 per high and 10 per medium finding, and is bounded at zero. Stable finding IDs preserve follow-up status across reruns. A resolved status records a workflow decision; it does not override source evidence or alter the analytical score.
+The supplied audit, intelligence and orchestration source files are included unchanged. The existing orchestration/orchestrator.py now provides only the dashboard job/status and publication wrapper around the uploaded AgentOrchestrator. The intelligence/franchise_intelligence.py module maps the uploaded engine's results to the existing dashboard field names. Audit uses the supplied latest-month project standards. Intelligence uses the supplied 30/25/15/15/15 weights, risk penalties and priority rules. Resolving a workflow item records follow-up state without altering source scores.
 
-Intelligence score = 25% performance + 20% workforce + 20% marketing + 20% inventory + 15% audit. High priority is below 60, Medium is 60–74.99, and Monitor is 75+. Lowest driver determines focus. Weights and thresholds are explicit in the corresponding Python modules. No external LLM or API key is required.
+The compatibility adapter supplies the current 750-outlet performance output using the engine's required column names, rather than importing the branch's unrelated 12-outlet sample dataset. Alert level, revenue growth and benchmark gap remain unknown where the existing performance source does not provide them. The adapter copies audit Severity to Agent_Priority for the engine's named-priority input, retaining the original P1–P4 Priority column. It does not change audit rules, intelligence weights or risk formulas.
 
 Forecasts retain the supplied algorithm and are labelled **lagged estimates**: they average the preceding three observations and are not future projections.
 
@@ -108,3 +110,9 @@ Validation for this update: 36 Python tests passed; JavaScript syntax checks pas
 Lucide icons are embedded in the existing stylesheet, with their ISC license included, so navigation has no external icon CDN dependency.
 
 All twelve existing agents now have direct sidebar entries, including Data preparation, Outlet benchmarking, Performance score, Demand forecasting, Staff agent, Marketing agent, Operational insights and Cross-functional health. Existing business dashboards retain their links and styling; shared routes appear only once. Agent Workflow stays last in the sidebar.
+
+## Supplied agent replacement
+
+Canonical supplied modules: audit_agent/audit_agent.py, src/intelligence_engine/intelligence_engine.py and src/orchestrator/orchestrator.py. Their matching supplied tests are included. Original dashboard layout and styles remain unchanged. Menu labels remain unchanged. The compatibility wrapper refreshes the supplied audit/intelligence outputs and SQLite snapshots. The original 36-test result above describes the previous package, not the updated source-agent test run.
+
+Replacement verification: 51 tests passed. Dashboard API reads succeeded, the intelligence snapshot covers all 750 existing outlets, and all three supplied agent source files match the uploaded ZIPs byte for byte.

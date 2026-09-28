@@ -5,17 +5,19 @@ from app import app
 from database.store import connect,snapshot
 from src.milestone4.data_preparation import prepare
 from intelligence.franchise_intelligence import build
-from audit_agent.audit_agent import build as audit
+from audit_agent.audit_agent import audit_outlet
 
 def test_complete_snapshot_and_scores():
  frames,checks=prepare()
  assert all(c['Status']=='Passed' for c in checks)
- findings,scores=audit(frames)
- rows=build(frames,scores)
+ rows=snapshot('intelligence')
  assert len(rows)==frames['data'].Outlet_ID.nunique()==750
  assert len({r['Outlet_ID'] for r in rows})==len(rows)
  assert all(0<=r['Intelligence_Score']<=100 for r in rows)
- assert all(r['Value']<r['Threshold'] for r in findings)
+ assert all(r['Intelligence_Score']==r['Health_Score'] for r in rows)
+ assert all(r['Recommended_Action']==r['Strategic_Recommendation'] for r in rows)
+ assert all(r['Issue_Count']>0 for r in snapshot('audit'))
+
 
 def test_reject_duplicate_sales(monkeypatch):
  import src.milestone4.data_preparation as module

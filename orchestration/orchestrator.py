@@ -2,7 +2,10 @@ import threading,uuid,traceback
 from database.store import connect,now,save
 from pipeline import run as legacy_run
 from src.milestone4.data_preparation import prepare
-from audit_agent.audit_agent import build as audit
+from src.orchestrator.orchestrator import AgentOrchestrator
+from intelligence.franchise_intelligence import audit_rows
+from pipeline import FILES,export
+import pandas as pd
 from intelligence.franchise_intelligence import build as intelligence
 LOCK=threading.Lock()
 STEPS=['Source agents','Data validation','Audit agent','Intelligence engine','Database publication']
@@ -12,8 +15,14 @@ def execute(run_id,target):
    with connect() as c:c.execute('UPDATE run_steps SET status=?,detail=? WHERE run_id=? AND name=?',(status,detail,run_id,name))
   step(STEPS[0],'running');legacy_run('all' if target in ['all','milestone4'] else target);step(STEPS[0],'succeeded')
   step(STEPS[1],'running');frames,checks=prepare();step(STEPS[1],'succeeded')
-  step(STEPS[2],'running');findings,scores=audit(frames);step(STEPS[2],'succeeded')
-  step(STEPS[3],'running');ranked=intelligence(frames,scores);step(STEPS[3],'succeeded')
+  step(STEPS[2],'running')
+  supplied=AgentOrchestrator().run()
+  supplied['Inventory Agent'].to_csv(FILES['inventory'],index=False)
+  supplied['Marketing Agent'].to_csv(FILES['marketing'],index=False)
+  export()
+  findings=audit_rows(supplied['Audit Agent'],frames)
+  step(STEPS[2],'succeeded')
+  step(STEPS[3],'running');ranked=intelligence(frames,supplied['Audit Agent']);step(STEPS[3],'succeeded')
   step(STEPS[4],'running')
   with connect() as c:
    c.execute('DELETE FROM monthly_sales');c.execute('DELETE FROM outlets')
