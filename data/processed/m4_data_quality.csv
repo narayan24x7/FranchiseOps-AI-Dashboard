@@ -1,0 +1,31 @@
+Check,Status,Evidence
+M4 notebook: nonempty dataset,Passed,30120 rows
+M4 notebook: required columns,Warning,"Missing: Audit_Compliance_Score, Audit_Flag, Audit_Risk_Score, Audit_Status"
+M4 notebook: source workbook,Warning,FranchiseOps_AI_Milestone2_Milestone3_Combined_Dataset.xlsx; complete M4 workbook was not supplied
+M4 notebook: Outlet_ID complete,Passed,0 missing identifiers
+M4 notebook: SKU_ID complete,Passed,0 missing identifiers
+M4 notebook: Campaign_ID complete,Passed,0 missing identifiers
+M4 notebook: valid months,Passed,0 invalid months
+M4 notebook: Conversion_Rate_% range,Passed,0–100; invalid values use the valid median
+M4 notebook: Profit_Margin_% range,Passed,0–100; invalid values use the valid median
+M4 notebook: Employee_Turnover_% range,Passed,0–100; invalid values use the valid median
+M4 notebook: Stock_Availability_% range,Passed,0–100; invalid values use the valid median
+M4 notebook: Freshness_Rate_% range,Passed,0–100; invalid values use the valid median
+M4 notebook: Attendance_Rate_% range,Passed,0–100; invalid values use the valid median
+M4 notebook: Customer_Engagement_Rate_% range,Passed,0–100; invalid values use the valid median
+M4 notebook: duplicate cleanup,Passed,0 exact duplicates removed
+M4 notebook: missing values,Passed,0 remaining; 2356 numeric repairs
+M4 notebook: Footfall nonnegative,Passed,0 negative values
+M4 notebook: Orders nonnegative,Passed,0 negative values
+M4 notebook: Sales_Revenue_INR nonnegative,Passed,0 negative values
+M4 notebook: COGS_INR nonnegative,Passed,0 negative values
+M4 notebook: Operating_Cost_INR nonnegative,Passed,0 negative values
+M4 notebook: Marketing_Spend_INR nonnegative,Passed,0 negative values
+M4 notebook: Employees nonnegative,Passed,0 negative values
+M4 notebook: Complaints nonnegative,Passed,0 negative values
+M4 notebook: Inventory_Units_Sold nonnegative,Passed,0 negative values
+M4 notebook: Opening_Stock_Units nonnegative,Passed,0 negative values
+M4 notebook: Stock_Received_Units nonnegative,Passed,0 negative values
+M4 notebook: Closing_Stock_Units nonnegative,Passed,0 negative values
+M4 notebook: Wastage_Units nonnegative,Passed,0 negative values
+M4 notebook: reference dimensions,Warning,"Actual (30120, 53); notebook reference (30120, 66)"

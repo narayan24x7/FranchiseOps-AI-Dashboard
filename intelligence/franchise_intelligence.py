@@ -21,8 +21,8 @@ def audit_rows(output, frames):
  return rows
 
 
-def build(frames, audit_output):
- """Publish the supplied engine output with aliases used by the existing UI."""
+def prepare_engine_inputs(audit_output):
+ """Synchronize current dashboard outputs for the file-based team engine."""
  # Retain original P1-P4 priorities and expose named severity expected by the engine.
  audit_input=audit_output.copy()
  audit_input['Agent_Priority']=audit_input['Severity']
@@ -35,8 +35,13 @@ def build(frames, audit_output):
  performance['benchmark_gap_pct']=float('nan')
  performance.to_csv(engine.AGENT_FILES['performance'],index=False)
  pd.read_csv(FILES['staff']).to_csv(engine.AGENT_FILES['staff'],index=False)
- engine.build_intelligence()
- output=pd.read_csv(engine.OUTPUT_FILE)
+
+def build(frames, audit_output, output=None):
+ """Publish engine output with aliases used by the existing UI."""
+ if output is None:
+  prepare_engine_inputs(audit_output)
+  engine.build_intelligence()
+  output=pd.read_csv(engine.OUTPUT_FILE)
  # Reuse the supplied preparation functions to expose the same driver values.
  prepared={}
  for name,path in engine.AGENT_FILES.items():

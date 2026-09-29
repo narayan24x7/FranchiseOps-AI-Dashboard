@@ -22,7 +22,7 @@ def execute(run_id,target):
   export()
   findings=audit_rows(supplied['Audit Agent'],frames)
   step(STEPS[2],'succeeded')
-  step(STEPS[3],'running');ranked=intelligence(frames,supplied['Audit Agent']);step(STEPS[3],'succeeded')
+  step(STEPS[3],'running');ranked=intelligence(frames,supplied['Audit Agent'],supplied['Franchise Intelligence Engine']);step(STEPS[3],'succeeded')
   step(STEPS[4],'running')
   with connect() as c:
    c.execute('DELETE FROM monthly_sales');c.execute('DELETE FROM outlets')

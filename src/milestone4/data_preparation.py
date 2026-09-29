@@ -22,4 +22,6 @@ def prepare():
   check(key+' outlet coverage',set(d.Outlet_ID)==ids and not d.Outlet_ID.duplicated().any(),f'{len(d)} outlets / {len(ids)} expected')
   check(key+' score range',v.notna().all() and v.between(0,100).all(),metric+' must be finite, 0–100')
  if any(c['Status']=='Failed' for c in checks):raise ValueError('; '.join(c['Check'] for c in checks if c['Status']=='Failed'))
+ from src.milestone4.notebook_preparation import prepare_notebook_data
+ checks.extend(prepare_notebook_data())
  return frames,checks

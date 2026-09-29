@@ -1,4 +1,8 @@
 import pandas as pd
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 
 from inventory_agent.inventory_agent.inventory_agent import (
     load_inventory_data,
@@ -12,6 +16,10 @@ from src.marketing_agent.marketing_agent import (
 
 from audit_agent.audit_agent import run_audit
 
+from src.intelligence_engine.intelligence_engine import (
+    build_intelligence,
+)
+
 
 class AgentOrchestrator:
     """
@@ -24,7 +32,7 @@ class AgentOrchestrator:
         results = {}
 
         # --------------------------------------------------
-        # Load common franchise dataset
+        # Load franchise dataset
         # --------------------------------------------------
         print("Loading franchise dataset...")
         inventory_data = load_inventory_data()
@@ -60,6 +68,30 @@ class AgentOrchestrator:
         results["Audit Agent"] = audit_result
 
         # --------------------------------------------------
+        # Franchise Intelligence Engine
+        # --------------------------------------------------
+        print("\nRunning Franchise Intelligence Engine...")
+        # Persist current results before the file-based intelligence engine reads them.
+        PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+        inventory_result.to_csv(PROCESSED_DIR / "inventory_agent_output.csv", index=False)
+        marketing_result.to_csv(PROCESSED_DIR / "marketing_agent_output.csv", index=False)
+        from intelligence.franchise_intelligence import prepare_engine_inputs
+        prepare_engine_inputs(audit_result)
+        build_intelligence()
+
+        intelligence_output_file = (
+            PROCESSED_DIR / "intelligence_output.csv"
+        )
+
+        intelligence_result = pd.read_csv(
+            intelligence_output_file
+        )
+
+        results["Franchise Intelligence Engine"] = (
+            intelligence_result
+        )
+
+        # --------------------------------------------------
         # Orchestration completed
         # --------------------------------------------------
         print("\n========== ORCHESTRATION COMPLETED ==========")
@@ -74,6 +106,11 @@ class AgentOrchestrator:
 
         print(
             f"Audit output: {audit_result.shape}"
+        )
+
+        print(
+            f"Intelligence output: "
+            f"{intelligence_result.shape}"
         )
 
         return results
